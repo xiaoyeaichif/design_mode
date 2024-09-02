@@ -25,6 +25,7 @@ public:
 	// 获取唯一的静态实例
 	static Singleton *getInstance()
 	{
+		// 锁放在这里的话，单线程执行效率太低
 		if (instance == nullptr)
 		{
 			// 要保证线程安全，必须加锁
