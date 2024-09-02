@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="单例模式_懒汉式.cpp">
+    <ClCompile Include="01单例模式_饿汉式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02单例模式_懒汉式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
