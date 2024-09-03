@@ -7,7 +7,7 @@ using namespace std;
 
 
 /*
-	简单工厂	Simple Factory
+	简单工厂	Simple Factory---》把对象的创建封装在一个函数中，通过传入不同的的标识，返回创建的对象
 	工厂方法	Factory Method	----》
 	抽象工厂	Abstract Factory
 	工厂模式：主要是封装了对象的创建

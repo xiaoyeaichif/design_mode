@@ -72,7 +72,7 @@ class AUDIFactory :public Factory
 	}
 };
 
-int main()
+int main_05()
 {
 	
 

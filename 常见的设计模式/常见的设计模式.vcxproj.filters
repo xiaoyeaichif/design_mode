@@ -30,5 +30,8 @@
     <ClCompile Include="05工厂模式_工厂方法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06工厂模式_抽象工厂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
