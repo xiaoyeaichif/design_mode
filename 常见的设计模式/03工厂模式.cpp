@@ -75,7 +75,7 @@ public:
 };
 
 
-int main()
+int main_04()
 {
 	// 使用裸指针进行初始化
 	Car* p1 = new Bmw("X1");
