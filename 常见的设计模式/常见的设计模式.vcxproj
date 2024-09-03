@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="02单例模式_懒汉式.cpp" />
     <ClCompile Include="01单例模式_饿汉式.cpp" />
+    <ClCompile Include="03工厂模式.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,8 +15,9 @@ using namespace std;
 	也就是说有了函数调用才生成该对象
 */
 
-static mutex mtx;  // 定义一个互斥量
+#if 0
 
+static mutex mtx;  // 定义一个互斥量
 
 // 懒汉式单例模式
 class Singleton
@@ -69,3 +70,5 @@ int main()
 }
 
 // 线程安全----可重入函数
+
+#endif
