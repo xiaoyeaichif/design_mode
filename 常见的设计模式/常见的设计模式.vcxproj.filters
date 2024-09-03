@@ -21,7 +21,10 @@
     <ClCompile Include="02单例模式_懒汉式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03工厂模式.cpp">
+    <ClCompile Include="04工厂模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03单例模式_线程安全_懒汉式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
