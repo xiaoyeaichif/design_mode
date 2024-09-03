@@ -43,7 +43,7 @@ private:
 // 定义一个唯一的实例对象
 
 // 数据段的创建在函数之前
-int main()
+int main_03()
 {
 	Singleton& p1 = Singleton::getInstance();
 	Singleton& p2 = Singleton::getInstance();
