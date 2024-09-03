@@ -84,7 +84,7 @@ int main_04()
 	p1->show();
 	p2->show();
 
-	delete p1;
+	delete p1; 
 	delete p2;
 
 	// 使用智能指针解决
