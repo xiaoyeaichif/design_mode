@@ -134,7 +134,7 @@ class AUDIFactory :public AbstractFactory
 	}
 };
 
-int main()
+int main_06()
 {
 
 
