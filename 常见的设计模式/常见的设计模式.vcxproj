@@ -133,7 +133,6 @@
     <ClCompile Include="04工厂模式_简单工厂.cpp" />
     <ClCompile Include="05工厂模式_工厂方法.cpp" />
     <ClCompile Include="06工厂模式_抽象工厂.cpp" />
-    <ClCompile Include="jieyushu.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

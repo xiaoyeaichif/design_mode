@@ -51,6 +51,8 @@ private:
 };
 
 // 类外初始化
+// Singleton *Singleton::instance = nullptr;：静态成员变量在类外初始化，
+// 保证开始时 instance 是空指针，表示还没有创建实例。
 Singleton * Singleton::instance = nullptr;
 
 
